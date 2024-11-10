@@ -47,7 +47,6 @@ export const App = () => {
           >
             Деньги на карман
           </Typography.TitleResponsive>
-          <Gap size={12} />
           <Typography.Text tag="p" view="primary-medium" color="secondary">
             Умный помощник для финансовой помощи детям
           </Typography.Text>
